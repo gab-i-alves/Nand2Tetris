@@ -32,9 +32,14 @@ Part II - forthcoming - 7 weeks - software
 **Weekly projects**
 
 Week 1 - Elementary Logic Gates
+
 Week 2 - Arithmetic - Logic Unit
+
 Week 3 - Registers and Memory
+
 Week 4 - Writing Low-Level Programs
+
 Week 5 - Computer Architecture
+
 Week 6 - Developing an Assembler
 
